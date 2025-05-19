@@ -1,16 +1,13 @@
 #include <stdio.h>
 int main(){
-	int prim; 
-	float seg;
-	float resul;
+	int prim, seg, resul;
 	char oper;
 	printf("\nPrimer numero: ");
 	scanf("%d",&prim);
 	printf("\nOperacion a realizar (+, -, *, /): "); 
-	oper = getc(stdin);    
-	oper = getc(stdin);   
+	scanf(" %c", &oper);
 	printf("\nSegundo numero: ");
-	scanf("%f",&seg); 
+	scanf("%d",&seg); 
 	if(oper == '+')
 		resul = prim + seg;	  
 	if(oper == '-')	  
@@ -19,6 +16,6 @@ int main(){
 		resul = prim * seg;	 
 	if(oper == '/')	 
 		resul = prim / seg; 
-	printf("\nEl resultado de la operacion %d %c %f es %f", prim, oper, seg, resul);
+	printf("\nEl resultado de la operacion %d %c %d es %d", prim, oper, seg, resul);
 	return 0;
 }
