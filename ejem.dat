@@ -1,0 +1,17 @@
+total 176
+-rw-r--r--@ 1 haraya  staff    251 Jun  3 23:18 algor_01.c
+-rw-r--r--@ 1 haraya  staff    237 Jun  3 23:18 algor_02.c
+-rw-r--r--@ 1 haraya  staff    452 Jun  3 23:18 algor_03.c
+-rw-r--r--@ 1 haraya  staff    462 Jun  3 23:18 arreglo_01.c
+-rw-r--r--@ 1 haraya  staff    560 Jun  3 23:18 arreglo_02.c
+-rw-r--r--@ 1 haraya  staff    125 Jun  3 23:18 ascii.c
+-rw-r--r--@ 1 haraya  staff    508 Jun  3 23:18 cuatro_oper.c
+-rw-r--r--  1 haraya  staff      0 Jun  3 23:20 ejem.dat
+-rw-r--r--@ 1 haraya  staff   1050 Jun  3 23:18 error.c
+-rwxr-xr-x@ 1 haraya  staff  33800 Jun  3 23:18 funcion_01
+-rw-r--r--@ 1 haraya  staff    216 Jun  3 23:18 funcion_01.c
+drwxr-xr-x@ 3 haraya  staff    102 Jun  3 23:18 funcion_01.dSYM
+-rw-r--r--@ 1 haraya  staff    829 Jun  3 23:18 matriz_01.c
+-rw-r--r--@ 1 haraya  staff    471 Jun  3 23:18 newton.c
+-rw-r--r--@ 1 haraya  staff    378 Jun  3 23:18 precision.c
+-rw-r--r--@ 1 haraya  staff   1050 Jun  3 23:18 prob_01.c
