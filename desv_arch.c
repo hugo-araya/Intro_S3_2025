@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define MAXIMO 100
+#define MAXIMO 20
 double raiz_cuadrada(double n);
 void lee_datos(int [], int, int *);
 void muestra_datos(int [], int);
